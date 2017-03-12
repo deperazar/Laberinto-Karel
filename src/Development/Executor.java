@@ -8,7 +8,8 @@ import becker.robots.*;
 import java.util.Random;
 /**
  *
- * @author PERSONAL
+ * DANIEL EDUARDO PERAZA RIVERA
+ * UNIVERSIDAD NACIONAL DE COLOMBIA
  */
 public class Executor {
     
